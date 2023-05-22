@@ -1,0 +1,6 @@
+networkx
+pandas
+numpy
+matplotlib
+tqdm
+nba_api
